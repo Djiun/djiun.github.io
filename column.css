@@ -1,0 +1,54 @@
+body {
+        background-color: yellow;
+}
+
+.canvas {
+    width: 300px
+    height: 600px
+    background-color: black;
+}
+
+.box {
+    width: 20px
+    height: 100px
+    background-color: yellow
+    position: absolute
+    top: 40px
+    right: 20px;
+}
+
+.circle {
+    width: 100px
+    height: 100px
+    boarder-radius: 100%
+    background-color: red
+    pos;
+    
+}
+
+.sprite {
+        width: 200px
+        height: 200px
+        background-images: url(sprite.jpeg);
+        background-repeat: no-repeat;
+        display: block;
+        text-indent: 100%;
+        white-space: nowrap;
+}
+
+.sprite:hover {
+        background-position: -200px 0;
+}
+
+.sprite:active {
+        background-position: -400px;
+
+.wrapper {
+        width: 400px;
+}
+
+.column {
+    width: 160 px
+    padding: 20px
+    float: right
+    ;
