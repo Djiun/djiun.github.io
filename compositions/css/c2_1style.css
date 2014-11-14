@@ -1,0 +1,103 @@
+body {
+  
+  margin: 0px;
+  padding: 0px;
+
+}
+
+.s {
+  position: absolute;
+  top: 100;
+  left: 400;
+  width: 450;
+  height: 600;
+  background-color: white;
+}
+
+.dog {
+
+  position: absolute; 
+  padding-left: 18px;
+  letter-spacing: 10px;
+  top: 0;
+  left: 0;
+  width: 1000px;
+  height: 80px;
+  font-size: 50px;
+  font-family: "Century Gothic",CenturyGothic,AppleGothic,sans-serif;
+}
+
+a:link {
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  color: white;
+  text-decoration: none;
+}
+a:active {
+  color: white;
+  text-decoration: none;
+}
+a:visited {
+  color: white;
+  text-decoration: none;
+}
+
+.a1 {
+  
+  position: absolute;
+  top: 0px;
+  left: 0px;
+
+}
+.a2 {
+  
+  position: absolute;
+  top: 500px;
+  left: 0px;
+
+}
+.a3 {
+  
+  position: absolute;
+  top: 0px;
+  left: 500px;
+
+}
+.a4 {
+  
+  position: absolute;
+  top: 500px;
+  left: 500px;
+
+}
+.a5 {
+  
+  position: absolute;
+  top: 0px;
+  left: 1000px;
+
+}
+.a6 {
+  
+  position: absolute;
+  top: 500px;
+  left: 1000px;
+
+}
+.a7 {
+  
+  position: absolute;
+  top: 0px;
+  left: 1500px;
+
+}
+.a8 {
+  
+  position: absolute;
+  top: 500px;
+  left: 1500px;
+
+}
